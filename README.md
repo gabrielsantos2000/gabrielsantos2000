@@ -11,18 +11,8 @@ I always try to reinvent myself, learn something new, make some code, put an ide
 
 My most domain language at the moment is **PHP**, however I have been very interested in **JavaScript/TypeScript**.
 
-## Gabriel Oliveira dos Santos - Santos/SP
-Full-Stack Developer
-
-Trajectory
-
-Graduated in Computer Technician for +3 years and 3 years working with development, I've been more surprised with technology and what it is capable of for you.
-
-I always try to reinvent myself, learn something new, make some code, put an idea on paper, anyway, I always like to keep my software (my brain) up to date as possible.
-
-My most domain language at the moment is PHP, however I have been very interested in JavaScript/TypeScript.
-
 ## Stacks already worked
+
 #### Programming languages
 > <img src="https://img.icons8.com/officel/58/000000/php-logo.png"/>
 > <img src="https://img.icons8.com/color/58/000000/c-sharp-logo-2.png"/> 
