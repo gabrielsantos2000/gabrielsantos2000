@@ -1,7 +1,7 @@
 
 # Gabriel Oliveira dos Santos - Santos/SP
 
-#### Full-Stack Developer at ZPT Digital
+#### Software Engineer at Total Express
 
 ## About me
 
