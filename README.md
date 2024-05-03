@@ -5,7 +5,7 @@
 
 ## About me
 
-Graduated in **Computer Technician** for +3 years and 3 years working with development, I've been more surprised with technology and what it is capable of for you.
+Graduated in **Computer Technician** and 6 years working with development, I've been more surprised with technology and what it is capable of for you.
 
 I always try to reinvent myself, learn something new, make some code, put an idea on paper, anyway, I always like to keep my software (my brain) up to date as possible.
 
