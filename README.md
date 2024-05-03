@@ -1,53 +1,22 @@
 ![logo](https://github.com/gabrielsantos2000/gabrielsantos2000/blob/main/_577f5685-0227-4428-8329-552b83dc39b2_16x9.png)
-# Gabriel Oliveira dos Santos - Santos/SP
+<h1 align="center">Hi 👋, I'm Gabriel Oliveira</h1>
+<h3 align="center">Passionate about technology, games and the cosmos. Software Engineer</h3>
 
-#### Software Engineer at Total Express
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielsantos2000&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielsantos2000" /> </p>
 
-## About me
+- 🌱 I’m currently learning **python, react, laravel, LLMs**
 
-Graduated in **Computer Technician** and 6 years working with development, I've been more surprised with technology and what it is capable of for you.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-oliveira-b6353a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-oliveira-b6353a16b/" height="30" width="40" /></a>
+<a href="https://discord.gg/Kingnister#4882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kingnister#4882" height="30" width="40" /></a>
+</p>
 
-I always try to reinvent myself, learn something new, make some code, put an idea on paper, anyway, I always like to keep my software (my brain) up to date as possible.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-My most domain language at the moment is **PHP**, however I have been very interested in **JavaScript/TypeScript**.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsantos2000&show_icons=true&locale=en&layout=compact" alt="gabrielsantos2000" /></p>
 
-## Stacks already worked
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos2000&show_icons=true&locale=en" alt="gabrielsantos2000" /></p>
 
-#### Programming languages
-> <img src="https://img.icons8.com/officel/58/000000/php-logo.png"/>
-> <img src="https://img.icons8.com/color/58/000000/c-sharp-logo-2.png"/> 
-#### Front-end
-> <img src="https://img.icons8.com/color/58/000000/html-5--v1.png"/>
-> <img src="https://img.icons8.com/color/58/000000/css3.png"/>
-> <img src="https://img.icons8.com/color/58/000000/javascript.png"/>
-
-#### Framework
-> <img src="https://img.icons8.com/color/58/000000/symfony.png"/>
-> <img src="https://img.icons8.com/fluent/58/000000/laravel.png"/>
-
-#### Database
-> <img src="https://img.icons8.com/color/58/000000/mysql-logo.png"/>
-> <img src="https://img.icons8.com/color/58/000000/oracle-logo.png"/>
-> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-
-#### Services
-> <img src="https://img.icons8.com/fluent/58/000000/docker.png"/>
-> <img src="https://img.icons8.com/color/58/000000/amazon-web-services.png"/>
-> <img src="https://img.icons8.com/color/58/000000/git.png"/>
-
-#### Package manager
-> <img src="https://img.icons8.com/color/58/000000/npm.png"/>
-> <img src="https://img.icons8.com/windows/58/000000/yarn-logo.png"/>
-
-#### Remote Service
-> <img src="https://img.icons8.com/material-sharp/58/000000/github.png"/>
-> <img src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-3521305-2944724.png" width="52">
-
-#### Interests
-> <img src="https://img.icons8.com/color/58/000000/nodejs.png"/>
-> <img src="https://img.icons8.com/color/58/000000/react-native.png"/>
-> <img src="https://img.icons8.com/color/58/000000/typescript.png"/>
-
-## Contact
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-oliveira-b6353a16b/)](https://www.linkedin.com/in/gabriel-oliveira-b6353a16b/) 
-[![Gmail Badge](https://img.shields.io/badge/-oldsgabriel@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oldsgabriel@gmail.com)](mailto:oldsgabriel@gmail.com)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsantos2000&" alt="gabrielsantos2000" /></p>
